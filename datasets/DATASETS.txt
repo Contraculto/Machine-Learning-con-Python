@@ -1,0 +1,3 @@
+Varios datasets distintos para usar en los experimentos.
+Hay csv, archivos en carpetas, textos, etc.
+Están en un zip porque aunque no pesan mucho son 40.000+ archivos
